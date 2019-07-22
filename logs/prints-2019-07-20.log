@@ -1,0 +1,52 @@
+2019-07-20 12:03:03.396 [main] INFO  Academy.E2EProject.HomePage - Driver is initialized
+2019-07-20 12:03:06.154 [main] INFO  Academy.E2EProject.ValidateTitle - Driver is initialized
+2019-07-20 12:03:09.331 [main] INFO  Academy.E2EProject.ValidateTitle - Navigated to Homepage
+2019-07-20 12:03:12.139 [main] INFO  Academy.E2EProject.validateNavigationBar - Driver is initialized
+2019-07-20 12:03:15.921 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated to homepage
+2019-07-20 12:03:16.167 [main] INFO  Academy.E2EProject.ValidateTitle - Page Title Validated Successfully
+2019-07-20 12:03:16.378 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated Successfully
+2019-07-20 12:03:21.024 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 12:03:30.014 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 12:03:36.616 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 12:03:41.231 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 21:32:36.898 [main] INFO  Academy.E2EProject.ValidateTitle - Driver is initialized
+2019-07-20 21:32:40.561 [main] INFO  Academy.E2EProject.ValidateTitle - Navigated to Homepage
+2019-07-20 21:32:40.783 [main] INFO  Academy.E2EProject.ValidateTitle - Page Title Validated Successfully
+2019-07-20 21:32:45.598 [main] INFO  Academy.E2EProject.validateNavigationBar - Driver is initialized
+2019-07-20 21:32:48.595 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated to homepage
+2019-07-20 21:32:48.740 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated Successfully
+2019-07-20 21:32:53.553 [main] INFO  Academy.E2EProject.HomePage - Driver is initialized
+2019-07-20 21:32:56.890 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 21:33:04.410 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 21:33:09.612 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 21:33:13.275 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 22:06:16.777 [main] INFO  Academy.E2EProject.ValidateTitle - Driver is initialized
+2019-07-20 22:06:20.438 [main] INFO  Academy.E2EProject.ValidateTitle - Navigated to Homepage
+2019-07-20 22:06:26.798 [main] INFO  Academy.E2EProject.validateNavigationBar - Driver is initialized
+2019-07-20 22:06:29.734 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated to homepage
+2019-07-20 22:06:29.873 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated Successfully
+2019-07-20 22:06:32.811 [main] INFO  Academy.E2EProject.HomePage - Driver is initialized
+2019-07-20 22:06:35.938 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 22:06:43.037 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 22:06:48.285 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 22:06:52.245 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 22:11:09.585 [main] INFO  Academy.E2EProject.ValidateTitle - Driver is initialized
+2019-07-20 22:11:12.521 [main] INFO  Academy.E2EProject.ValidateTitle - Navigated to Homepage
+2019-07-20 22:11:18.740 [main] INFO  Academy.E2EProject.validateNavigationBar - Driver is initialized
+2019-07-20 22:11:21.674 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated to homepage
+2019-07-20 22:11:21.789 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated Successfully
+2019-07-20 22:11:26.626 [main] INFO  Academy.E2EProject.HomePage - Driver is initialized
+2019-07-20 22:11:29.524 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 22:11:36.618 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 22:11:41.962 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage
+2019-07-20 22:11:47.464 [main] INFO  Academy.E2EProject.HomePage - User Validation Success
+2019-07-20 22:50:28.553 [main] INFO  Academy.E2EProject.validateNavigationBar - Driver is initialized
+2019-07-20 22:50:31.735 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated to homepage
+2019-07-20 22:50:31.927 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated Successfully
+2019-07-20 22:51:54.623 [main] INFO  Academy.E2EProject.ValidateTitle - Driver is initialized
+2019-07-20 22:51:57.618 [main] INFO  Academy.E2EProject.ValidateTitle - Navigated to Homepage
+2019-07-20 22:52:04.127 [main] INFO  Academy.E2EProject.validateNavigationBar - Driver is initialized
+2019-07-20 22:52:07.053 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated to homepage
+2019-07-20 22:52:07.192 [main] INFO  Academy.E2EProject.validateNavigationBar - Navigated Successfully
+2019-07-20 22:52:11.961 [main] INFO  Academy.E2EProject.HomePage - Driver is initialized
+2019-07-20 22:52:15.059 [main] INFO  Academy.E2EProject.HomePage - Navigated to Homepage

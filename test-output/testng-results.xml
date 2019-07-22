@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10409" started-at="2019-07-20T17:20:23Z" finished-at="2019-07-20T17:20:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10409" started-at="2019-07-20T17:20:23Z" finished-at="2019-07-20T17:20:34Z">
+      <class name="Academy.E2EProject.validateNavigationBar">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.E2EProject.validateNavigationBar@441772e]" name="initialize" is-config="true" duration-ms="8022" started-at="2019-07-20T22:50:23Z" finished-at="2019-07-20T22:50:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validateNavBar()[pri:0, instance:Academy.E2EProject.validateNavigationBar@441772e]" name="validateNavBar" duration-ms="164" started-at="2019-07-20T22:50:31Z" finished-at="2019-07-20T22:50:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNavBar -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Academy.E2EProject.validateNavigationBar@441772e]" name="tearDown" is-config="true" duration-ms="2184" started-at="2019-07-20T22:50:31Z" finished-at="2019-07-20T22:50:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.E2EProject.validateNavigationBar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

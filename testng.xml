@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="Academy.E2EProject.listeners" />
+	</listeners>
+	<test name="Validating Title">
+		<classes>
+			<class name="Academy.E2EProject.ValidateTitle" />
+		</classes>
+	</test>
+
+	<test name="Validating NavigationBar">
+		<classes>
+			<class name="Academy.E2EProject.validateNavigationBar" />
+		</classes>
+	</test>
+
+	<test name="Validating HomePage">
+		<classes>
+			<class name="Academy.E2EProject.HomePage" />
+		</classes>
+	</test>
+</suite>
